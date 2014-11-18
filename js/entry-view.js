@@ -6,7 +6,7 @@
    * picks the first existing entry. If no entry exists, this view will display
    * the CreatingEntryView. */
   EntryView.render = function($entry, activeEntryData) {
-    // TODO
+  	
   };
 
   window.EntryView = EntryView;
